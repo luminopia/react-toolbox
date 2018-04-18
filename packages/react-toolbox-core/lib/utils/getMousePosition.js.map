@@ -1,1 +1,0 @@
-{"version":3,"file":"getMousePosition.js","sourceRoot":"","sources":["../../src/utils/getMousePosition.ts"],"names":[],"mappings":";;AAGA,0BAAyC,KAAsB;IAC7D,MAAM,CAAC;QACL,CAAC,EAAE,KAAK,CAAC,KAAK,GAAG,CAAC,MAAM,CAAC,OAAO,IAAI,MAAM,CAAC,WAAW,CAAC;QACvD,CAAC,EAAE,KAAK,CAAC,KAAK,GAAG,CAAC,MAAM,CAAC,OAAO,IAAI,MAAM,CAAC,WAAW,CAAC;KACxD,CAAC;AACJ,CAAC;AALD,mCAKC"}
